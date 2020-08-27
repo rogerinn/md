@@ -27,8 +27,12 @@ DBeaver Community (or another database manager).
 
 ### Clone Project
 
-- Clone this repository to your machine using ...
+- Clone this repository to your machine using git commands.
 
-### Start Project
+```shell
+$ git clone {repository URL}
+```
 
-Now you can start your project, but you need the .env configuration. 
+### Env Configuration
+
+- Now you can start your project, but you need the .env configuration. 
