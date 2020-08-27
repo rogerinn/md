@@ -13,14 +13,20 @@ You need to install the software below.
 ```
 NodeJS and NPM (latest LTS version).
 ```
+> !NodeJS and NPM are installed together.
 
 ```
-YARN (latest stable version).
+Yarn (latest stable version).
 ```
 > !Yarn is another Node package manager option.
 
 ```
 DBeaver Community (or another database manager).
+```
+> !DBeaver is a database manager.
+
+```
+Git (commands for code versioning control).
 ```
 
 > !If you are having problems or difficulty with the installation, you can search for tutorials on YouTube. Rocketseat tutorials are recommended.
@@ -35,4 +41,4 @@ $ git clone {repository URL}
 
 ### Env Configuration
 
-- Now you can start your project, but you need the .env configuration. 
+- Now you need the .env configuration.
