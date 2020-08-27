@@ -21,11 +21,6 @@ NodeJS and NPM (latest LTS version).
 > !NodeJS and NPM are installed together.
 
 ```
-Yarn (latest stable version).
-```
-> !Yarn is another Node package manager option.
-
-```
 DBeaver Community (or another database manager).
 ```
 > !DBeaver is a database manager.
