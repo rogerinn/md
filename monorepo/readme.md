@@ -11,6 +11,11 @@ Before creating a copy of this project, you must have all of the requirements be
 You need to install the software below.
 
 ```
+Visual Studio Code (code editor).
+```
+> !Visual Studio Code is a code editor from Microsoft.
+
+```
 NodeJS and NPM (latest LTS version).
 ```
 > !NodeJS and NPM are installed together.
