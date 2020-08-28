@@ -45,11 +45,10 @@ $ git clone {repository URL}
 
 > !To make sure that everything is right, perform a test on an endpoint with the developer.
 
-### Start Project
+## Documentation
 
-- To start the project, you see the command in the file ```package.json```.
+- Project documentation is on the links below.
 
-```shell
-  "dev": "nodemon --exec babel-node app.js",
-  "start": "babel-node app.js"
-```
+https://documentation.zemopay.com.br/
+
+https://contractorpay.zemopay.com.br/
