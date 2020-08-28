@@ -49,3 +49,7 @@ $ git clone {repository URL}
 
 - To start the project, you see the command in the file ```package.json```.
 
+```shell
+  "dev": "nodemon --exec babel-node app.js",
+  "start": "babel-node app.js"
+```
