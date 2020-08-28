@@ -44,3 +44,8 @@ $ git clone {repository URL}
 - To configure the .env and DataBase, contact one of the project's developers.
 
 > !To make sure that everything is right, perform a test on an endpoint with the developer.
+
+### Start Project
+
+- To start the project, you see the command in the file ```package.json```.
+
