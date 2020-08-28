@@ -39,6 +39,8 @@ Git (commands for code versioning control).
 $ git clone {repository URL}
 ```
 
-### Env Configuration
+### .env and DataBase Configuration
 
-- Now you need the .env configuration.
+- To configure the .env and DataBase, contact one of the project's developers.
+
+> !To make sure that everything is right, perform a test on an endpoint with the developer.
