@@ -53,8 +53,22 @@ $ git clone {repository URL}
 ### Docker and DataBase Configuration
 
 - To configure the docker and DataBase, contact one of the project's developers.
-
 > !To make sure that everything is right, perform a test on an endpoint with the developer.
+
+```shell
+docker-compose --build -d
+```
+>!Command to process the file and create the Docker images it contains.
+
+```shell
+npx sequelize db:create
+```
+>!Command to create the DataBase.
+
+```shell
+npx sequelize db:migrate
+```
+>!Command to create the tables on DataBase.
 
 ## Documentation
 
