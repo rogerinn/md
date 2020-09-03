@@ -25,11 +25,22 @@ DBeaver Community (or another database manager).
 ```
 > !DBeaver is a database manager.
 
+
+```
+Docker (latest stable version).
+```
+> !Docker is a container manager.
+
+```
+Postman (latest version).
+```
+> !Postman is a tool to test RESTful services.
+
 ```
 Git (commands for code versioning control).
 ```
 
-> !If you are having problems or difficulty with the installation, you can search for tutorials on YouTube. Rocketseat tutorials are recommended.
+> !If you are having problems or difficulty with the installation, you can search for tutorials on YouTube.
 
 ### Clone Project
 
@@ -39,9 +50,9 @@ Git (commands for code versioning control).
 $ git clone {repository URL}
 ```
 
-### .env and DataBase Configuration
+### Docker and DataBase Configuration
 
-- To configure the .env and DataBase, contact one of the project's developers.
+- To configure the docker and DataBase, contact one of the project's developers.
 
 > !To make sure that everything is right, perform a test on an endpoint with the developer.
 
